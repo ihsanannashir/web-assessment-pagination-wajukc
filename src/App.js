@@ -109,7 +109,3 @@ export const App = () => {
 };
 
 export default App;
-
-// {data.filter((item) => {
-//   return item.id === x
-// })}
